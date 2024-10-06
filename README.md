@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace (@gy180)
-- 🌱 I am interested in the intersection of technology and human experiences, and aim to craft impactful experiences through the blend of design, AI, psychology, and art
-- ✨ To learn more about me, check out my [website](https://www.graceyyy.com/)
+- 🌱 I am interested in the intersection of technology and human experiences, and aim to craft impactful experiences through the blend of design, AI, psychology, and art.
+- ✨ To learn more about me, check out my [website](https://www.graceyyy.com/).
 - ❗ Some of my github projects are private for either class, personal, or other reasons. Please reach out if interested in learning more.
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
