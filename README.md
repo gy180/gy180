@@ -12,7 +12,7 @@ Databases: SQL
 
 How to Reach Me:\
 Email: gy18@rice.edu\
-LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/grace-y4ng/)
+LinkedIn: [linkedin.com/in/grace-y4ng/](https://www.linkedin.com/in/grace-y4ng/)
 
 ❗❗❗Some of my github projects are private for either class, personal, or other reasons. Please reach out if interested in learning more.
 
