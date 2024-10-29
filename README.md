@@ -3,16 +3,16 @@ I am an aspiring SWE/Product Designer passionate about the intersection of techn
 
 ✨ To learn more about me, check out my [website](https://www.graceyyy.com/) ✨
 
-*Tech Stack:* \
+**Tech Stack:** \
 Languages: Python, Java, C/C#, Go \
 Web Dev: HTML, CSS, Typescript, JavaScript, Node.js, Next.js, React \
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow, PySpark, PyTorch \
 Tools: Figma, Webflow, Jupyter Notebooks, Google Colab, Git, GitHub \
-Databases: SQL \
+Databases: SQL 
 
 How to Reach Me:\
 Email: gy18@rice.edu\
-LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/grace-y4ng/)\
+LinkedIn: [linkedin.com/in/yourprofileLinks to an external site.](https://www.linkedin.com/in/grace-y4ng/)
 
 ❗❗❗Some of my github projects are private for either class, personal, or other reasons. Please reach out if interested in learning more.
 
